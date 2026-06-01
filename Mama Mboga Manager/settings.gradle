@@ -1,0 +1,2 @@
+rootProject.name = 'Mama Mboga Manager'
+include ':app'
