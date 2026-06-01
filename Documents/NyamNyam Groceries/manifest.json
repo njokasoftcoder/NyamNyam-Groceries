@@ -1,0 +1,15 @@
+{
+  "background_color": "#2e7d32",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Mama Mboga Manager",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "NyamNyam Grocer",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Grocery management for Mombasa businesses",
+  "categories": [
+    "shopping"
+  ]
+}
