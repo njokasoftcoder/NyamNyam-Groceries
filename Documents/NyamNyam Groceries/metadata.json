@@ -1,0 +1,6 @@
+{
+  "name": "NyamNyam Groceries",
+  "description": "Digitized operations, point of sale, inventory, debts, and analytics for NyamNyam Groceries in Mombasa, Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
